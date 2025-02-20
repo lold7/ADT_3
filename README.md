@@ -46,13 +46,13 @@ Not-Valid
 ---
 
 ## Features
-- **Balanced Parentheses Checking: Uses a stack-based method to ensure each ( has a matching ).
-- **Operator Checking: Detects invalid consecutive operators like ++, **, // (except special handling for ^ if needed).
-- **Start/End Validation: Rejects expressions that start or end with disallowed operators.
-- **Linked-List-Based Stack: Demonstrates how to create a custom data structure instead of using Java’s built-in Stack or ArrayList.
-- **Handles Basic Operators: +, -, *, /, and ^ (power).
-- **Automatic File Reading: Always attempts to open input1.csv (no command-line arguments needed).
-- **Graceful Error Handling: Prints an error if the file is missing or if invalid expressions are encountered.
+- **Balanced Parentheses Checking**: Uses a stack-based method to ensure each ( has a matching ).
+- **Operator Checking**: Detects invalid consecutive operators like ++, **, // (except special handling for ^ if needed).
+- **Start/End Validation**: Rejects expressions that start or end with disallowed operators.
+- **Linked-List-Based Stack**: Demonstrates how to create a custom data structure instead of using Java’s built-in Stack or ArrayList.
+- **Handles Basic Operators**: +, -, *, /, and ^ (power).
+- **Automatic File Reading**: Always attempts to open input1.csv (no command-line arguments needed).
+- **Graceful Error Handling**: Prints an error if the file is missing or if invalid expressions are encountered.
 
 
 # THANK YOU
