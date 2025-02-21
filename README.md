@@ -1,7 +1,6 @@
-# Count Program
+# Stack Program
 - Author:  Anawat Jandee
 - Student ID:  672115049<br><br>
-A Programming Assignment in ADT & Solving Problem course that reads a text file (my_txt.txt) and performs various text-processing operations such as counting characters, detecting palindromes, tokenizing words, identifying emoticons, and finding the longest token in the text.
 ---
 
 ## Description
